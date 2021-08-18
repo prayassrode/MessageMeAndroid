@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1093764112204",
+    "firebase_url": "https://inclass13-6aab5.firebaseio.com",
+    "project_id": "inclass13-6aab5",
+    "storage_bucket": "inclass13-6aab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093764112204:android:9fc5c4c3f38fc740",
+        "android_client_info": {
+          "package_name": "com.example.praya.inclass13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093764112204-bjq4qlv4vc4q8n8u7n6opplk2immm7vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpWduWVW3vS32DBHT9tYaCy-OHegH9Xvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
